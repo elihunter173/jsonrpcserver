@@ -1,1 +1,1 @@
-include README.md CHANGELOG.md jsonrpcserver/request-schema.json LICENSE
+include README.md CHANGELOG.md jsonrpcserver/request-schema.json jsonrpcserver/py.typed LICENSE
